@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Free CRMPro Classic Test App Automation" duration-ms="5" started-at="2019-08-21T06:33:36Z" finished-at="2019-08-21T06:33:36Z">
+    <groups>
+    </groups>
+    <test name="FREE CRMPRO Classic App Test" duration-ms="5" started-at="2019-08-21T06:33:36Z" finished-at="2019-08-21T06:33:36Z">
+    </test> <!-- FREE CRMPRO Classic App Test -->
+  </suite> <!-- Free CRMPro Classic Test App Automation -->
+</testng-results>
