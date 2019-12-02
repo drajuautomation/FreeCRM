@@ -37,11 +37,11 @@ public class DealsPage extends TestBase{
 	
 	
 	//Actions
-	public DealsPage verifyNewDealsLinkTest()
-	{
-		homePage.clickOnNewDealsLink();
-		return new DealsPage();
-	}
+//	public DealsPage verifyNewDealsLinkTest()
+//	{
+//		homePage.clickOnNewDealsLink();
+//		return new DealsPage();
+//	}
 
 	public boolean verifyDealsLable()
 	{
